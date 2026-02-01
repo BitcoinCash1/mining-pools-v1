@@ -1,3 +1,7 @@
+# Old
+
+**Important:** There is a new pools v2 repository now at: [https://github.com/BitcoinCash1/mining-pools](https://github.com/BitcoinCash1/mining-pools).
+
 # Bitcoin Cash Mining Pools
 
 Mining pools definition used on https://explorer.melroy.org/mining
